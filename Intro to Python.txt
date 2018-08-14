@@ -1,0 +1,35 @@
+INtro to PYthon
+
+1.  Easy.
+2.  General purpose programming language.
+3.  High  level programming language.
+4.  Father of Python- Guido Van Rossum 
+   	made in 1989.
+	released to general public in 1991.
+5.  No need to import Libraries
+6.  Interpretable Programming language 
+7.  Python is very concise to use.
+8.  Dynamically typed programming language(unlike C,C++ which are statically typed)
+9.  Functional Programming features from C.
+10. Object Oriented Programming features from C++.
+11. Scripting language features from Perl and ShellScript.
+12. Modulus Programming language features from Modula-3.
+13. Free and Open-Source.
+14. Platform independent.
+15. Case Sensitive.
+16. Library Rich.
+
+Uses of Python
+
+1. Desktop Applications.
+2. Web Applications(Youtube,Instagram,spotify,Quora).
+3. Scientific and Numeric Computing(numpy and Scipy).
+4. Database Applications.
+5. Network Applications(Network sniffing,Router Algo like OSPF).
+6. Developing Games(Battlefield,Sims4,PUBG).
+7. Data Science(pandas,matplotlib,seaborn).
+8. Machine Learning(SciKit learn).
+9. AI(AIMA).
+10. Internet of Things(Raspberry PI).
+
+
